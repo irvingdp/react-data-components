@@ -26,8 +26,7 @@
     "stage": 0
   },
   "peerDependencies": {
-    "react": "^0.14.1",
-    "react-dom": "^0.14.1"
+    "react": "^0.13.3"
   },
   "dependencies": {
     "lodash.some": "^3.2.3",
@@ -43,7 +42,6 @@
     "eslint-plugin-react": "^3.6.3",
     "flux": "^2.1.1",
     "jest-cli": "^0.6.1",
-    "react-addons-test-utils": "^0.14.1",
     "rimraf": "^2.4.3",
     "webpack": "^1.12.2",
     "webpack-dev-server": "^1.12.1"
